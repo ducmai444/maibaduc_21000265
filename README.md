@@ -1,13 +1,13 @@
-#Git là gì?
+# Git là gì?
 Git là một hệ thống quản lý phiên bản phân tán (Distributed Version Control System – DVCS), nó là một trong những hệ thống quản lý phiên bản phân tán phổ biến nhất hiện nay. Git cung cấp cho mỗi lập trình viên kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi.
 
-#Git có lợi ích gì?
+# Git có lợi ích gì?
  - Dễ sử dụng, thao tác nhanh, gọn, lẹ và rất an toàn.
  - Dễ dàng kết hợp các phân nhánh (branch), có thể giúp quy trình làm việc code theo nhóm đơn giản hơn rất nhiều.
  - Chỉ cần clone mã nguồn từ kho chứa hoặc clone một phiên bản thay đổi nào đó từ kho chứa, hoặc một nhánh nào đó từ kho chứa là bạn có thể làm việc ở mọi lúc mọi nơi.
  - Deployment sản phẩm của bạn một cách không thể nào dễ dàng hơn.
 
-#Các lệnh git cơ bản
+# Các lệnh git cơ bản
 1. git config
 * Để kiểm tra tên và kiểu email trong cấu hình dùng git config  -- global và git config -- global user.email..
 * Để set email hoặc tên mới git config -- global usee.name = "User name" và git config -- global user.email = "useremail@gmail.com".
